@@ -1,0 +1,23 @@
+
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="attention">Attention</string>
+    <string name="back_button">Back</string>
+    <string name="delete">Delete</string>
+    <string name="delete_question">Are you sure you want to delete?</string>
+    <string name="no_task_description">Oops!\nNo tasks in the inventory.\nTap + to add.</string>
+    <string name="edit_task_title">Edit Task</string>
+    <string name="task">Task</string>
+    <string name="Task_detail_title">Task Details</string>
+    <string name="task_entry_title">Add task</string>
+    <string name="task_name_req">Task Name*</string>
+    <string name="task_price_req">Task Price*</string>
+    <string name="no">No</string>
+    <string name="time">Time</string>
+    <string name="save_action">Save</string>
+    <string name="yes">Yes</string>
+    <string name="required_fields">*required fields</string>
+    <string name="complete" />
+    <string name="time_req" />
+    <string name="task_detail_title" />
+</resources>
